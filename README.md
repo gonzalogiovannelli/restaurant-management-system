@@ -22,6 +22,6 @@ the table and over the counter, out of the same stock. Nothing put it all togeth
 ## Notes
 
 - It ran for two and a half years, until the business closed.
-- All data is anonymised. [Live report](https://app.powerbi.com/view?r=eyJrIjoiNzRiYjA3YjktNmQzNi00OWZiLTliZDgtMDNkOWRjODkyNWIzIiwidCI6ImJhMWRhMTIzLTdhOTktNDlhNy05Yjk1LWQ2ZGUwOWJjM2RlYSIsImMiOjR9).
+- All data is anonymised.
 - The code here dates from February 2025 and was written with AI chat assistants.
 - Credentials in the script are placeholders.
